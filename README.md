@@ -11,17 +11,6 @@ Análisis con SQL
 Visualización con Python
 Pensamiento orientado a negocio
 
-Descripción del proyecto
-
-Este proyecto analiza datos de ventas de un e-commerce utilizando SQL (SQLite) y Python para extraer insights de negocio relevantes.
-
-El objetivo principal es demostrar habilidades en:
-
-Manipulación de datos
-Análisis con SQL
-Visualización con Python
-Pensamiento orientado a negocio
-
 Tecnologías utilizadas
 Python (pandas, matplotlib)
 SQL (SQLite)
