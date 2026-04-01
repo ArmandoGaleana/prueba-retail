@@ -1,10 +1,3 @@
-## Nota
-El archivo `retail.db` no se incluye en el repositorio porque es generado localmente a partir del dataset original.
-Para recrearlo, ejecuta:
-
-```bash
-python src/create_database.py
-
 Descripción del proyecto
 
 Este proyecto analiza datos de ventas de un e-commerce utilizando SQL (SQLite) y Python para extraer insights de negocio relevantes.
@@ -92,3 +85,9 @@ Los productos de decoración son los principales generadores de ingresos
 Existe un grupo de clientes de alto valor que debe ser priorizado
 Hay oportunidades de crecimiento en mercados internacionales
 La limpieza de datos es clave para obtener insights confiables
+
+## Nota
+El archivo `retail.db` no se incluye en el repositorio porque es generado localmente a partir del dataset original.
+Para recrearlo, ejecuta:
+```bash
+python src/create_database.py
